@@ -21,8 +21,7 @@
 - **HTML5** - Structure and layout                        
 - **CSS3** - Responsive and clean styling               
 - **JavaScript** - DOM manipulation and logic                 
-- **Font Awesome** - Icons for UI buttons (edit, delete, add)   
-- **Marked.js** - Markdown parsing for note content           
+- **Font Awesome** - Icons for UI buttons (edit, delete, add)           
 
 ---
 
