@@ -31,4 +31,4 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/notes-nest.git
+git clone https://github.com/codeXsidd/notes-nest.git
