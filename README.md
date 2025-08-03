@@ -1,4 +1,4 @@
-# 📝 Notes Nest
+# 📝 Notes-Nests
 
 **Notes Nest** is a minimalist, in-browser note-taking web application that allows users to create, edit, delete, and save markdown notes — all stored locally in the browser. Perfect for students, developers, and anyone needing quick notes with a rich-text-like experience.
 
